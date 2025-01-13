@@ -1,0 +1,2 @@
+crewai== 0.79.4
+crewai-tools==0.14.0
